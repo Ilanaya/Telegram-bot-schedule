@@ -14,6 +14,4 @@
 - /start - Start the bot
 - /schedule - View schedule
 - /week - Determine even/odd weeks
-- /show - Show the answer panel
-- /hide - Hide the Answer Panel
 - /support - Contact information for communication
